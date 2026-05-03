@@ -24,10 +24,11 @@ export function generateStaticParams() {
 
 interface Props {
   children: React.ReactNode;
-  params:   { locale: string };
+  params:   Promise<{ locale: string }>;
 }
 
-export default async function LocaleLayout({ children, params: { locale } }: Props) {
+export default async function LocaleLayout({ children, params }: Props) {
+  const { locale } = await params;
   if (!locales.includes(locale as 'ml' | 'en')) notFound();
 
   const messages = await getMessages();
