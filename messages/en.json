@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "activities": "Activities",
+    "gallery": "Gallery",
+    "news": "News & Events",
+    "achievements": "Achievements",
+    "pta": "PTA",
+    "contact": "Contact",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "hero": {
+    "schoolName": "Palad LPS",
+    "fullName": "Palad Lower Primary School",
+    "tagline": "The Light of Knowledge",
+    "subTagline": "Quality Education Since 1935",
+    "admissionsBtn": "Admissions Info",
+    "contactBtn": "Contact Us"
+  },
+  "stats": {
+    "founded": "Founded",
+    "students": "Students",
+    "teachers": "Teachers",
+    "classes": "Classes"
+  },
+  "sections": {
+    "announcements": "Announcements",
+    "viewAll": "View All",
+    "upcomingEvents": "Upcoming Events",
+    "aboutSchool": "About Our School",
+    "readMore": "Read More",
+    "photoHighlights": "Photo Highlights",
+    "viewGallery": "View Gallery",
+    "achievements": "Achievements",
+    "findUs": "Find Us",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "history": "Our History",
+    "vision": "Vision & Mission",
+    "staff": "Our Staff",
+    "principalMsg": "Principal's Message",
+    "schoolAtGlance": "School at a Glance",
+    "historyDesc": "Palad LPS was founded in 1935 by Kannur Nambyar with the aim of community education and comprehensive development of the local area.",
+    "visionText": "To build a generation rooted in knowledge and ethics by providing quality education to every child.",
+    "missionText": "To create an environment that fosters the physical, mental, intellectual, and creative growth of every student."
+  },
+  "academics": {
+    "title": "Academics",
+    "classes": "Classes",
+    "syllabus": "Syllabus",
+    "results": "Exam Results",
+    "resources": "Study Resources",
+    "medium": "Malayalam Medium",
+    "board": "Kerala State Syllabus"
+  },
+  "admissions": {
+    "title": "Admissions",
+    "process": "Process",
+    "eligibility": "Eligibility",
+    "documents": "Documents",
+    "period": "April – June",
+    "noExam": "No Entrance Exam",
+    "class1Age": "Class 1: Must be 5 years old by June 1st",
+    "ppAge": "Pre-Primary: 3 – 5 years",
+    "applyNow": "Apply Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "officeHours": "Office Hours",
+    "hoursValue": "Monday – Friday: 9:00 AM – 3:45 PM",
+    "sendMessage": "Send a Message",
+    "name": "Your Name",
+    "message": "Message",
+    "send": "Send",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "allAlbums": "All Albums",
+    "photos": "Photos",
+    "rateThis": "Rate this"
+  },
+  "comments": {
+    "title": "Comments",
+    "placeholder": "Write your comment here...",
+    "yourName": "Your Name",
+    "submit": "Submit",
+    "noComments": "No comments yet. Be the first to comment!",
+    "pending": "Your comment is awaiting moderation."
+  },
+  "news": {
+    "title": "News & Events",
+    "announcements": "Announcements",
+    "events": "Events",
+    "circulars": "Circulars",
+    "download": "Download"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "lss": "LSS Qualifiers",
+    "lssDesc": "Approximately 25 students have qualified for the prestigious LSS (Lower Secondary Scholarship).",
+    "science": "Science Exhibition",
+    "scienceDesc": "Multiple overall championship wins at district-level science exhibitions.",
+    "sports": "Sports & Culture",
+    "sportsDesc": "Active participation and wins in district-level sports and cultural events."
+  },
+  "pta": {
+    "title": "PTA (Parent-Teacher Association)",
+    "desc": "A dedicated association where parents and teachers work together for the growth and development of the school.",
+    "meetings": "Meeting Minutes",
+    "committee": "Committee Members"
+  },
+  "footer": {
+    "rights": "© 2025 Palad LPS. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "dashboard": "Dashboard",
+    "addPost": "Add Post",
+    "manageGallery": "Manage Gallery",
+    "manageStaff": "Manage Staff",
+    "comments": "Comment Moderation",
+    "settings": "Settings"
+  }
+}
