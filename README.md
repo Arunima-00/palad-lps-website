@@ -14,16 +14,15 @@ Built with a full bilingual (Malayalam / English) interface and a complete admin
 ## Features
 
 - Bilingual — Malayalam and English (auto-translate)
-- Fully dynamic — all content editable from the admin panel
+- Fully dynamic — all content editable by school authorities
 - Announcements, Events, Staff directory
-- Photo Gallery with Cloudinary uploads
+- Photo Gallery
 - Achievements, Testimonials, PTA meetings
 - LSS Hall of Fame, Circulars, Study Resources
 - Activities (category-based)
 - Admissions and Academics pages
-- Contact form (messages saved to Firestore)
-- AI Chatbot (rule-based, answers in ML/EN)
-- Admin panel at `/en/admin`
+- Contact form
+- AI Chatbot (answers in Malayalam and English)
 
 ---
 
@@ -82,15 +81,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## Admin Panel
-
-URL: `/en/admin`
-
-Log in with the school authority's Firebase email and password.  
-From the admin panel you can edit every section of the website — no coding required.
-
----
-
 ## Deployment
 
 The website is automatically deployed to Vercel on every push to the `main` branch.
@@ -108,7 +98,6 @@ palad-lps-website/
 ├── app/
 │   └── [locale]/          # Bilingual pages (en / ml)
 │       ├── page.tsx        # Home page
-│       ├── admin/          # Admin panel
 │       └── layout.tsx      # Root layout
 ├── components/
 │   ├── layout/             # Navbar, Footer
